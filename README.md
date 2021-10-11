@@ -8,7 +8,7 @@
  <br> 🔭 I’m currently working on ReactJS & NodeJS.
  🌱 Learning System Design, Database & ML
  <br> 💬 Ask me about Javascript, ReactJS & Web Development.
- 📫 How to reach me: Join me at <a target="_blank" href="https://www.linkedin.com/in/alen-john-306a571b1">LinkedIn</a> or tweet <a target="_blank" href="https://twitter.com/AlenJoh81144560">@alenJoh81144560</a>
+ 📫 How to reach me: Join me at tweet <a target="_blank" href="https://twitter.com/AlenJoh81144560">@alenJoh81144560</a>
  <br> ⚡ Fun fact: I m not from IIT, NIT or even CSE.
  😀 Interested in Product Development.
 </p>
@@ -26,7 +26,7 @@
  <!-- <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" /> -->
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
- <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+<!--  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> -->
  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
